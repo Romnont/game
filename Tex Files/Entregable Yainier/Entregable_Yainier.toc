@@ -1,2 +1,12 @@
 \babel@toc {spanish}{}
 \contentsline {chapter}{\numberline {1}Introducción}{2}{}%
+\contentsline {chapter}{\numberline {2}Objetivos}{3}{}%
+\contentsline {section}{\numberline {2.1}Objetivos específicos}{3}{}%
+\contentsline {section}{\numberline {2.2}Objetivos generales}{3}{}%
+\contentsline {chapter}{\numberline {3}Marco teórico}{4}{}%
+\contentsline {section}{\numberline {3.1}Anaconda}{4}{}%
+\contentsline {section}{\numberline {3.2}Python}{4}{}%
+\contentsline {section}{\numberline {3.3}Pygame}{4}{}%
+\contentsline {chapter}{\numberline {4}Composición y desarrollo}{5}{}%
+\contentsline {chapter}{\numberline {5}Resultado}{6}{}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{7}{}%
