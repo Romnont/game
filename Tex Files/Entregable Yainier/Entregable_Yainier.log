@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.25)  14 JUN 2021 01:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.25)  14 JUN 2021 01:58
 entering extended mode
 **./Entregable_Yainier.tex
 (Entregable_Yainier.tex
@@ -477,46 +477,11 @@ File: pstricks.tex 2020/09/18 v3.01 `PSTricks' (tvz,hv)
 
 (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/generic/pstricks\pst-fp.tex)
 File: pst-fp.tex 2020/09/18 v3.01 `PST-fp' (hv)
-)) (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-(C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
-
-(C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen276
-\captionmargin@=\dimen277
-\captionwidth=\dimen278
-\caption@tempdima=\dimen279
-\caption@indent=\dimen280
-\caption@parindent=\dimen281
-\caption@hangindent=\dimen282
-Package caption Info: Standard document class detected.
-)
-\c@caption@flags=\count311
-\c@continuedfloat=\count312
-Package caption Info: float package is loaded.
-Package caption Info: wrapfig package is loaded.
-)
-\c@KVtest=\count313
-\sf@farskip=\skip65
-\sf@captopadj=\dimen283
-\sf@capskip=\skip66
-\sf@nearskip=\skip67
-\c@subfigure=\count314
-\c@subfigure@save=\count315
-\c@lofdepth=\count316
-\c@subtable=\count317
-\c@subtable@save=\count318
-\c@lotdepth=\count319
-\sf@top=\skip68
-\sf@bottom=\skip69
-)
+))
 (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count320
+\l__kernel_color_stack_int=\count311
 \l__pdf_internal_box=\box57
 ) (Entregable_Yainier.aux
 LaTeX Info: Redefining \. on input line 8.
@@ -524,36 +489,36 @@ LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `Entregable_Yainier.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Info: Redefining \. on input line 22.
-LaTeX Info: Redefining \% on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
 
 (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count321
-\scratchdimen=\dimen284
+\scratchcounter=\count312
+\scratchdimen=\dimen276
 \scratchbox=\box58
-\nofMPsegments=\count322
-\nofMParguments=\count323
+\nofMPsegments=\count313
+\nofMParguments=\count314
 \everyMPshowfont=\toks45
-\MPscratchCnt=\count324
-\MPscratchDim=\dimen285
-\MPnumerator=\count325
-\makeMPintoPDFobject=\count326
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen277
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
 \everyMPtoPDFconversion=\toks46
 )
 (C:\Users\eduar\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -596,21 +561,18 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: End \AtBeginDocument code.
 <uaem_logo.png, id=1, 525.6438pt x 325.6968pt>
 File: uaem_logo.png Graphic file (type png)
 <use uaem_logo.png>
-Package pdftex.def Info: uaem_logo.png  used on input line 28.
+Package pdftex.def Info: uaem_logo.png  used on input line 27.
 (pdftex.def)             Requested size: 262.82126pt x 162.84799pt.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 38.
+(Font)              using `OT1/cmr/bx/n' instead on input line 35.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/scit' undefined
-(Font)              using `OT1/cmr/bx/it' instead on input line 45.
+(Font)              using `OT1/cmr/bx/it' instead on input line 44.
 
 [1
 Non-PDF special ignored!
@@ -666,12 +628,29 @@ Cap\'{\i }tulo 2.
 Cap\'{\i }tulo 3.
 [4
 
-] [5]
+]
+<../../SecondGame/esquimal.jpg, id=25, 471.26062pt x 423.83344pt>
+File: ../../SecondGame/esquimal.jpg Graphic file (type jpg)
+<use ../../SecondGame/esquimal.jpg>
+Package pdftex.def Info: ../../SecondGame/esquimal.jpg  used on input line 172.
+
+(pdftex.def)             Requested size: 235.62973pt x 211.91618pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--176
+
+ []
+
+[5 <../../SecondGame/esquimal.jpg>]
 Cap\'{\i }tulo 4.
 <negative_cinc.png, id=29, 276.03125pt x 183.68625pt>
 File: negative_cinc.png Graphic file (type png)
 <use negative_cinc.png>
-Package pdftex.def Info: negative_cinc.png  used on input line 176.
+Package pdftex.def Info: negative_cinc.png  used on input line 191.
 (pdftex.def)             Requested size: 138.01527pt x 91.84288pt.
 [6
 
@@ -679,42 +658,37 @@ Package pdftex.def Info: negative_cinc.png  used on input line 176.
 <execute_order_66.png, id=34, 678.73575pt x 400.49625pt>
 File: execute_order_66.png Graphic file (type png)
 <use execute_order_66.png>
-Package pdftex.def Info: execute_order_66.png  used on input line 181.
-(pdftex.def)             Requested size: 339.36703pt x 200.24763pt.
-<spaceship_red.png, id=35, 501.875pt x 414.54875pt>
-File: spaceship_red.png Graphic file (type png)
-<use spaceship_red.png>
-Package pdftex.def Info: spaceship_red.png  used on input line 194.
-(pdftex.def)             Requested size: 150.56366pt x 124.36557pt.
-<spaceship_yellow.png, id=36, 501.875pt x 414.54875pt>
-File: spaceship_yellow.png Graphic file (type png)
-<use spaceship_yellow.png>
-Package pdftex.def Info: spaceship_yellow.png  used on input line 197.
-(pdftex.def)             Requested size: 150.56366pt x 124.36557pt.
- [7 <./execute_order_66.png> <./spaceship_red.png> <./spaceship_yellow.png>]
+Package pdftex.def Info: execute_order_66.png  used on input line 196.
+(pdftex.def)             Requested size: 509.05055pt x 300.37144pt.
+
+Overfull \hbox (8.56656pt too wide) in paragraph at lines 196--197
+ [] 
+ []
+
+[7 <./execute_order_66.png>]
 Cap\'{\i }tulo 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--216
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--216
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--216
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--216
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--216
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
 
  []
 
@@ -729,34 +703,28 @@ LaTeX Info: Redefining \% on input line 8.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 22 (\begingroup)
+### semi simple group (level 1) entered at line 21 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13860 strings out of 479618
- 237919 string characters out of 2865026
- 544471 words of memory out of 3000000
- 30812 multiletter control sequences out of 15000+200000
+ 12476 strings out of 479618
+ 211380 string characters out of 2865026
+ 517063 words of memory out of 3000000
+ 29437 multiletter control sequences out of 15000+200000
  412348 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,11n,133p,535b,1490s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 83i,11n,93p,535b,1213s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmbx12.pfb><C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/eduar/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/eduar/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/eduar/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/eduar/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users
-/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-
-Output written on Entregable_Yainier.pdf (10 pages, 1269614 bytes).
+eX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/eduar/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/eduar/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Entregable_Yainier.pdf (10 pages, 1370892 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
