@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.25)  14 JUN 2021 01:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.25)  14 JUN 2021 01:39
 entering extended mode
 **./Entregable_Yainier.tex
 (Entregable_Yainier.tex
@@ -637,30 +637,36 @@ Package pdftex.def Info: negative_cinc.png  used on input line 175.
 (pdftex.def)             Requested size: 138.01527pt x 91.84288pt.
 [6
 
- <./negative_cinc.png>] [7]
+ <./negative_cinc.png>]
+<execute_order_66.png, id=34, 678.73575pt x 400.49625pt>
+File: execute_order_66.png Graphic file (type png)
+<use execute_order_66.png>
+Package pdftex.def Info: execute_order_66.png  used on input line 180.
+(pdftex.def)             Requested size: 203.62228pt x 120.1498pt.
+ [7 <./execute_order_66.png>]
 Cap\'{\i }tulo 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--193
+Underfull \hbox (badness 10000) in paragraph at lines 190--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--193
+Underfull \hbox (badness 10000) in paragraph at lines 190--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--193
+Underfull \hbox (badness 10000) in paragraph at lines 190--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--193
+Underfull \hbox (badness 10000) in paragraph at lines 190--195
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--193
+Underfull \hbox (badness 10000) in paragraph at lines 190--195
 
  []
 
@@ -681,10 +687,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### semi simple group (level 1) entered at line 21 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12464 strings out of 479618
- 211056 string characters out of 2865026
+ 12470 strings out of 479618
+ 211195 string characters out of 2865026
  517072 words of memory out of 3000000
- 29429 multiletter control sequences out of 15000+200000
+ 29434 multiletter control sequences out of 15000+200000
  412348 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,11n,93p,535b,1213s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -695,9 +701,9 @@ eX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/eduar/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/eduar/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/eduar/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Entregable_Yainier.pdf (10 pages, 585559 bytes).
+Output written on Entregable_Yainier.pdf (10 pages, 1249624 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
