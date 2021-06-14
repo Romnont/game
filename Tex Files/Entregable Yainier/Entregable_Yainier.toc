@@ -4,21 +4,11 @@
 \contentsline {section}{\numberline {2.1}Objetivos específicos}{3}{}%
 \contentsline {section}{\numberline {2.2}Objetivos generales}{3}{}%
 \contentsline {chapter}{\numberline {3}Marco teórico}{4}{}%
-<<<<<<< Updated upstream
-\contentsline {section}{\numberline {3.1}Anaconda}{4}{}%
-\contentsline {section}{\numberline {3.2}Python}{4}{}%
-\contentsline {section}{\numberline {3.3}Pygame}{5}{}%
-\contentsline {chapter}{\numberline {4}Composición}{6}{}%
-\contentsline {section}{\numberline {4.1}Concepto del videojuego}{6}{}%
-\contentsline {section}{\numberline {4.2}Partes integrales del juego}{6}{}%
-\contentsline {subsection}{\numberline {4.2.1}Pantalla}{6}{}%
-\contentsline {chapter}{\numberline {5}Resultado}{8}{}%
-\contentsline {chapter}{\numberline {6}Conclusiones}{9}{}%
-=======
 \contentsline {section}{\numberline {3.1}Anaconda\cite {Anaconda}}{4}{}%
 \contentsline {section}{\numberline {3.2}Python\cite {Python}}{4}{}%
 \contentsline {section}{\numberline {3.3}Pygame\cite {Pygame}}{5}{}%
 \contentsline {chapter}{\numberline {4}Composición y desarrollo}{6}{}%
 \contentsline {section}{\numberline {4.1}Nociones básicas del juego desarrollado}{6}{}%
-\contentsline {chapter}{\numberline {5}Conclusiones}{7}{}%
->>>>>>> Stashed changes
+\contentsline {section}{\numberline {4.2}Partes integrales del juego}{6}{}%
+\contentsline {subsection}{\numberline {4.2.1}Pantalla}{6}{}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{8}{}%
