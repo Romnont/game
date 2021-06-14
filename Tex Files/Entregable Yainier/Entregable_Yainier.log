@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.25)  14 JUN 2021 00:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.25)  14 JUN 2021 01:27
 entering extended mode
 **./Entregable_Yainier.tex
 (Entregable_Yainier.tex
@@ -630,22 +630,27 @@ Cap\'{\i }tulo 3.
 
 ] [5]
 Cap\'{\i }tulo 4.
+<negative_cinc.png, id=29, 276.03125pt x 183.68625pt>
+File: negative_cinc.png Graphic file (type png)
+<use negative_cinc.png>
+Package pdftex.def Info: negative_cinc.png  used on input line 172.
+(pdftex.def)             Requested size: 138.01527pt x 91.84288pt.
 [6
 
-]
+ <./negative_cinc.png>] [7]
 Cap\'{\i }tulo 5.
-[7
+[8
 
 ]
 Cap\'{\i }tulo 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--178
+Underfull \hbox (badness 10000) in paragraph at lines 186--190
 
  []
 
-[8
+[9
 
-] [9
+] [10
 
 ] (Entregable_Yainier.aux
 LaTeX Info: Redefining \. on input line 8.
@@ -660,11 +665,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### semi simple group (level 1) entered at line 21 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12449 strings out of 479618
- 210837 string characters out of 2865026
+ 12457 strings out of 479618
+ 210991 string characters out of 2865026
  517054 words of memory out of 3000000
- 29415 multiletter control sequences out of 15000+200000
- 411396 words of font info for 57 fonts, out of 3000000 for 9000
+ 29422 multiletter control sequences out of 15000+200000
+ 412001 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  83i,11n,93p,527b,1213s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/eduar/AppData/Local/Programs/MiKTeX/fonts/type1/publi
@@ -674,9 +679,9 @@ eX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/eduar/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/eduar/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/eduar/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Entregable_Yainier.pdf (10 pages, 455179 bytes).
+Output written on Entregable_Yainier.pdf (11 pages, 584444 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

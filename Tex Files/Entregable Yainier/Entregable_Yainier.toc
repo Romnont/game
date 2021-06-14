@@ -7,7 +7,9 @@
 \contentsline {section}{\numberline {3.1}Anaconda}{4}{}%
 \contentsline {section}{\numberline {3.2}Python}{4}{}%
 \contentsline {section}{\numberline {3.3}Pygame}{5}{}%
-\contentsline {chapter}{\numberline {4}Composición y desarrollo}{6}{}%
-\contentsline {section}{\numberline {4.1}Nociones basicas del juego desarrollado}{6}{}%
-\contentsline {chapter}{\numberline {5}Resultado}{7}{}%
-\contentsline {chapter}{\numberline {6}Conclusiones}{8}{}%
+\contentsline {chapter}{\numberline {4}Composición}{6}{}%
+\contentsline {section}{\numberline {4.1}Concepto del videojuego}{6}{}%
+\contentsline {section}{\numberline {4.2}Partes integrales del juego}{6}{}%
+\contentsline {subsection}{\numberline {4.2.1}Pantalla}{6}{}%
+\contentsline {chapter}{\numberline {5}Resultado}{8}{}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{9}{}%
