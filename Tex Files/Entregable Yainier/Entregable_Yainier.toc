@@ -7,6 +7,7 @@
 \contentsline {section}{\numberline {3.1}Anaconda\cite {Anaconda}}{4}{}%
 \contentsline {section}{\numberline {3.2}Python\cite {Python}}{4}{}%
 \contentsline {section}{\numberline {3.3}Pygame\cite {Pygame}}{5}{}%
+\contentsline {subsection}{\numberline {3.3.1}Sprites}{5}{}%
 \contentsline {chapter}{\numberline {4}Composición y desarrollo}{6}{}%
 \contentsline {section}{\numberline {4.1}Nociones básicas del juego desarrollado}{6}{}%
 \contentsline {section}{\numberline {4.2}Partes integrales del juego}{6}{}%
