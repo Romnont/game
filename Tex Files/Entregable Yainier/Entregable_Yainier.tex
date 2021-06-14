@@ -9,7 +9,7 @@
 \usepackage{enumitem}
 \usepackage{float}
 \usepackage{researchdiary_png}
-
+\usepackage{subfig}
 \newcommand{\workingDate}{\textsc{ }}
 \newcommand{\userName}{ }
 \newcommand{\institution}{ }
@@ -191,11 +191,31 @@ La pantalla principal del juego es un fondo estático de dimensiones 900x500 pix
 \includegraphics[scale=0.5]{negative_cinc.png} 
 \end{center} 
 Dicha imagen se divide a la mitad con el próposito de asignar a cada jugador ese espacio que actua como su aréa de juego desde el cual ninguno de los dos se puede mover afuera de la misma.\newline
-En las esquinas superiores se dibujan a manera de texto las vidas restantes de cada jugador, las cuales se decrementan si un jugador ha sido impactado por una bala del oponente.
+En las esquinas superiores se dibujan a manera de texto las vidas restantes de cada jugador, las cuales se decrementan si un jugador ha sido impactado por una bala del oponente. 
 \begin{center}
 \includegraphics[scale=0.75]{execute_order_66.png} 
 \end{center}
 
+
+
+
+\subsection{Naves}
+Las naves están compuestas de imágenes tipo PNG de 100x300 pixeles. En ambas naves predomina el color gris con contorno negro, tienen también colores rojos, naranjas y amarillos para simular fuego saliendo de los motores. 
+
+Una de ellas tiene señas de color rojo mientras que la otra las tiene de color amarillo, como se muestra en la siguiente imagen:
+\begin{center}
+\begin{figure}[h]
+ \centering
+  \subfloat[Jugador 1]{
+   \label{f:jugador1}
+	\includegraphics[scale=0.3]{spaceship_red.png}}
+  	\subfloat[Jugador 2]{
+   	\label{f:jugador 2}
+	\includegraphics[scale=0.3]{spaceship_yellow.png} }
+ \caption{Naves}
+ \label{f:naves}
+\end{figure}
+\end{center}
 
 \chapter{Conclusiones}
 \textit{In termino.} \\ \\ \\ 
