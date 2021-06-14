@@ -6,7 +6,7 @@
 \contentsline {chapter}{\numberline {3}Marco teórico}{4}{}%
 \contentsline {section}{\numberline {3.1}Anaconda}{4}{}%
 \contentsline {section}{\numberline {3.2}Python}{4}{}%
-\contentsline {section}{\numberline {3.3}Pygame}{4}{}%
-\contentsline {chapter}{\numberline {4}Composición y desarrollo}{5}{}%
-\contentsline {chapter}{\numberline {5}Resultado}{6}{}%
-\contentsline {chapter}{\numberline {6}Conclusiones}{7}{}%
+\contentsline {section}{\numberline {3.3}Pygame}{5}{}%
+\contentsline {chapter}{\numberline {4}Composición y desarrollo}{6}{}%
+\contentsline {chapter}{\numberline {5}Resultado}{7}{}%
+\contentsline {chapter}{\numberline {6}Conclusiones}{8}{}%
